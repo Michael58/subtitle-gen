@@ -22,8 +22,8 @@ A Python tool that automatically generates subtitles for video files using Googl
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-subtitle-generator.git
-   cd ai-subtitle-generator
+   git clone https://github.com/Michael58/subtitle-gen.git
+   cd subtitle-gen
    ```
 
 2. Install required packages:
